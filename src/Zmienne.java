@@ -35,6 +35,13 @@ public class Zmienne {
 
         boolean sun = true; //false
 
+        // https://github.com/przemjan/trzeciapgr3r2024
+
+        // \\ubuckp\public\janisz
+
+        // Podstawowa składnia i struktury wybranych języków programowania.
+        // Proste algorytmy.
+
 
     }
 }
